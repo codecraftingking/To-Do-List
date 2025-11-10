@@ -1,0 +1,5 @@
+{
+  "name": "Gemini-Powered To-Do List",
+  "description": "A smart to-do list application that uses the Gemini API to suggest new tasks based on your current list, helping you stay organized and productive.",
+  "requestFramePermissions": []
+}
